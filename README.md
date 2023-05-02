@@ -1,4 +1,4 @@
-## Welcome to Mobile App Development Spring 2023. We will host all the code provided during the lectures and videos in this repository.
+## This is a code base for all the code provided during the lectures and videos by our Professor Mohamed Shehab.
 
 This course focuses on Android development using Java
 
