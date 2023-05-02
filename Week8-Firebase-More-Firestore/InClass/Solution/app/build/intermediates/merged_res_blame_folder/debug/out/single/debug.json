@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/drawable-v24_rubbish_bin.png.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/drawable-v24/rubbish_bin.png"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/layout_fragment_login.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "edu.uncc.inclass08.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/drawable_ic_add_icon.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/drawable/ic_add_icon.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/menu_main_menu.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/menu/main_menu.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/layout_fragment_add_course.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/fragment_add_course.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/layout_grade_row_item.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/grade_row_item.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/drawable_ic_plus.png.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/drawable/ic_plus.png"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/layout_fragment_grades.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/fragment_grades.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/layout_fragment_sign_up.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "edu.uncc.inclass08.app-main-36:/drawable/ic_launcher_background.xml"
+    }
+]

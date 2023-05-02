@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "edu.uncc.inclass08.app-mergeDebugResources-33:/layout/fragment_grades.xml",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/fragment_grades.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-mergeDebugResources-33:/layout/fragment_login.xml",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-mergeDebugResources-33:/layout/grade_row_item.xml",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/grade_row_item.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-mergeDebugResources-33:/layout/fragment_sign_up.xml",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "edu.uncc.inclass08.app-mergeDebugResources-33:/layout/fragment_add_course.xml",
+        "source": "edu.uncc.inclass08.app-main-36:/layout/fragment_add_course.xml"
+    }
+]
